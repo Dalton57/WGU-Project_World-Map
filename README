@@ -1,8 +1,2 @@
-Student ID: 012169582
-
-Angular version:
-    Angular CLI: 17.3.17
-    Node: 20.19.3
-    Package Manager: npm 10.8.2
-    OS: win32 x63
-    Angular 17.3.12
+Interactive world map with information on capital city, region, income level, longitude and latitude.
+JavaScript, HTML, CSS, API, Git, and Angular framework was used for this project
